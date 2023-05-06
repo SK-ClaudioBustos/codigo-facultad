@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#encabezado{
+    width: 100%;
+}
+
+#titulo {
+    text-align: center;
+    color:#2c746c;
+    text-decoration: underline #2c746c;
+}
+
+body {
+    background-color:#dad3d3;
+}
+
+#parrafo {
+    text-align: center;
+}
+
+a {
+    display: block;
+    position:relative;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#link1 {
+    color: darkorchid;
+    text-decoration-color:darkorchid;
+}
+
+#link2 {
+    color: blue;
+    text-decoration-color:blue;
+}
+
+#pie {
+    width: 100%;
+    display:flex;
+    bottom: 0;
+    position: absolute;
+}
